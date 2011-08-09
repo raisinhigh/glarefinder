@@ -8,9 +8,17 @@ namespace ClassLibrary1
     public class Class1
     {
 
-        public int test(int a)
+        /// <summary>
+        /// resolved issue
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
+        public int test(int a,int b)
         {
-            return a * a;
+            return a * b;
         }
+
+        
     }
 }

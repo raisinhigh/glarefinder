@@ -7,7 +7,7 @@ namespace GlareFinder
 {
     class GlareLib
     {
-
+        private string FIRSTLINE = "QWERTYUIOP";
         public string test123()
         {
             return "123";
