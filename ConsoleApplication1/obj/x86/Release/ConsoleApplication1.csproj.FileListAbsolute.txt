@@ -1,0 +1,5 @@
+C:\Users\Manfred\glarefinder\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Manfred\glarefinder\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Manfred\glarefinder\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Manfred\glarefinder\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\Manfred\glarefinder\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb

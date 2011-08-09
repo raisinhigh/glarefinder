@@ -1,0 +1,5 @@
+C:\Users\Manfred\glarefinder\GlareFinder\bin\Release\GlareFinder.dll
+C:\Users\Manfred\glarefinder\GlareFinder\bin\Release\GlareFinder.pdb
+C:\Users\Manfred\glarefinder\GlareFinder\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Manfred\glarefinder\GlareFinder\obj\Release\GlareFinder.dll
+C:\Users\Manfred\glarefinder\GlareFinder\obj\Release\GlareFinder.pdb

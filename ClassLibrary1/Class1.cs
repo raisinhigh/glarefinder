@@ -7,5 +7,10 @@ namespace ClassLibrary1
 {
     public class Class1
     {
+
+        public int test(int a)
+        {
+            return a * a;
+        }
     }
 }

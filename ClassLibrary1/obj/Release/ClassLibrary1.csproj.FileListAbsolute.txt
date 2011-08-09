@@ -1,0 +1,5 @@
+C:\Users\Manfred\glarefinder\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Manfred\glarefinder\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Manfred\glarefinder\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Manfred\glarefinder\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Manfred\glarefinder\ClassLibrary1\obj\Release\ClassLibrary1.pdb

@@ -7,5 +7,10 @@ namespace GlareFinder
 {
     class GlareLib
     {
+
+        public string test123()
+        {
+            return "123";
+        }
     }
 }

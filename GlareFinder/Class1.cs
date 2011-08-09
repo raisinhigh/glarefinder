@@ -7,5 +7,11 @@ namespace GlareFinder
 {
     public class Class1
     {
+
+        public string echo(string e)
+        {
+            return e;
+        }
+
     }
 }
